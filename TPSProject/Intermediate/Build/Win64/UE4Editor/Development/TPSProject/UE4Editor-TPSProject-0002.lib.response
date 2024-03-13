@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TPSProject-0002.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Admin\Documents\Unreal Projects\TPSProject\Intermediate\Build\Win64\TPSProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Admin\Documents\Unreal Projects\TPSProject\Intermediate\Build\Win64\UE4Editor\Development\TPSProject\TPSProject.cpp.obj"
+"C:\Users\Admin\Documents\Unreal Projects\TPSProject\Intermediate\Build\Win64\UE4Editor\Development\TPSProject\TPSProjectGameModeBase.cpp.obj"
+"C:\Users\Admin\Documents\Unreal Projects\TPSProject\Intermediate\Build\Win64\UE4Editor\Development\TPSProject\TPSProject.init.gen.cpp.obj"
+"C:\Users\Admin\Documents\Unreal Projects\TPSProject\Intermediate\Build\Win64\UE4Editor\Development\TPSProject\TPSProjectGameModeBase.gen.cpp.obj"
+"C:\Users\Admin\Documents\Unreal Projects\TPSProject\Intermediate\Build\Win64\UE4Editor\Development\TPSProject\Default.rc2.res"
+/OUT:"C:\Users\Admin\Documents\Unreal Projects\TPSProject\Intermediate\Build\Win64\UE4Editor\Development\TPSProject\UE4Editor-TPSProject-0002.lib"

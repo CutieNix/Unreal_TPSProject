@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\WorkArea\\GitHub\\UnrealProject\\Unreal_TPSProject\\TPSProject\\Source\\TPSProject\\TPSProject.Build.cs",
+		"D:\\WorkArea\\GitHub\\UnrealProject\\Unreal_TPSProject\\TPSProject\\Source\\TPSProject.Target.cs",
+		"D:\\WorkArea\\GitHub\\UnrealProject\\Unreal_TPSProject\\TPSProject\\Source\\TPSProjectEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
